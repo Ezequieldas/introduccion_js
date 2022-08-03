@@ -1,10 +1,3 @@
-![LarnU](../_src/assets/00-PrimerosPasos/logo_LarnU.png)
-
-<br>
-<br>
-
-# Desafío: HTML
-
 ## Instrucciones
 
 Crear un nuevo archivo dentro de la carpeta `Clases` llamado `introduccion_js` donde deberás escribir a un costado los valores que tomaran los siguentes ejercicios:
